@@ -132,10 +132,10 @@ main ()
 	  break;
 	}
 	}
-    }
+    
 // Display ICAO words
   cout << " Phonetic version is: " << Word_Output << endl;
-
+}
   return 0;
 
 
